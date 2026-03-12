@@ -20,8 +20,8 @@
 		<module>review-service</module>
 	</modules>
 	<properties>
-		<maven.compiler.source>24</maven.compiler.source>
-		<maven.compiler.target>24</maven.compiler.target>
+		<maven.compiler.source>25</maven.compiler.source>
+		<maven.compiler.target>25</maven.compiler.target>
 	</properties>
 	<build>
 		<plugins>
@@ -32,7 +32,7 @@
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
 				<configuration>
-					<release>24</release>
+					<release>25</release>
 				</configuration>
 			</plugin>
 		</plugins>
